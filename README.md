@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Reza-Hashemi
-- 👀 I’m interested in javaScript and Node.JS
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on Node.JS
+- 👀 I’m interested in javaScript and Node.JS & React.js
 - 📫 How to reach me : reza.hashemi9472@gmail.com
 
 <!---
